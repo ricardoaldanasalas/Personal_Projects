@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\obj\Debug\netcoreapp3.1\CurrencyExchangeRates.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\obj\Debug\netcoreapp3.1\CurrencyExchangeRates.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\obj\Debug\netcoreapp3.1\CurrencyExchangeRates.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\bin\Debug\netcoreapp3.1\CurrencyExchangeRates.exe
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\bin\Debug\netcoreapp3.1\CurrencyExchangeRates.deps.json
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\bin\Debug\netcoreapp3.1\CurrencyExchangeRates.runtimeconfig.json
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\bin\Debug\netcoreapp3.1\CurrencyExchangeRates.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\bin\Debug\netcoreapp3.1\CurrencyExchangeRates.dll
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\bin\Debug\netcoreapp3.1\CurrencyExchangeRates.pdb
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\obj\Debug\netcoreapp3.1\CurrencyExchangeRates.dll
+C:\Users\Admin\Desktop\Personal Project\CurrencyExchangeRates\CurrencyExchangeRates\obj\Debug\netcoreapp3.1\CurrencyExchangeRates.pdb
