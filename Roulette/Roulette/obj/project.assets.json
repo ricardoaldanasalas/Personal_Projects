@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ISTA322\\Roulette\\Roulette\\Roulette.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Personal_Projects\\Roulette\\Roulette\\Roulette.csproj",
       "projectName": "Roulette",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\ISTA322\\Roulette\\Roulette\\Roulette.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Personal_Projects\\Roulette\\Roulette\\Roulette.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\ISTA322\\Roulette\\Roulette\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Personal_Projects\\Roulette\\Roulette\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
