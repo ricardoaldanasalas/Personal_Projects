@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\bin\Debug\netcoreapp3.1\VectorDisstance_Calculation.exe
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\bin\Debug\netcoreapp3.1\VectorDisstance_Calculation.deps.json
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\bin\Debug\netcoreapp3.1\VectorDisstance_Calculation.runtimeconfig.json
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\bin\Debug\netcoreapp3.1\VectorDisstance_Calculation.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\bin\Debug\netcoreapp3.1\VectorDisstance_Calculation.dll
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\bin\Debug\netcoreapp3.1\VectorDisstance_Calculation.pdb
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\obj\Debug\netcoreapp3.1\VectorDisstance_Calculation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\obj\Debug\netcoreapp3.1\VectorDisstance_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\obj\Debug\netcoreapp3.1\VectorDisstance_Calculation.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\obj\Debug\netcoreapp3.1\VectorDisstance_Calculation.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\obj\Debug\netcoreapp3.1\VectorDisstance_Calculation.dll
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\obj\Debug\netcoreapp3.1\VectorDisstance_Calculation.pdb
+C:\Users\Admin\Desktop\Personal_Projects\VectorDisstance_Calculation\VectorDisstance_Calculation\obj\Debug\netcoreapp3.1\VectorDisstance_Calculation.genruntimeconfig.cache

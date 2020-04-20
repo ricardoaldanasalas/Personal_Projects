@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\bin\Debug\netcoreapp3.1\History_Test.exe
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\bin\Debug\netcoreapp3.1\History_Test.deps.json
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\bin\Debug\netcoreapp3.1\History_Test.runtimeconfig.json
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\bin\Debug\netcoreapp3.1\History_Test.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\bin\Debug\netcoreapp3.1\History_Test.dll
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\bin\Debug\netcoreapp3.1\History_Test.pdb
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\obj\Debug\netcoreapp3.1\History_Test.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\obj\Debug\netcoreapp3.1\History_Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\obj\Debug\netcoreapp3.1\History_Test.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\obj\Debug\netcoreapp3.1\History_Test.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\obj\Debug\netcoreapp3.1\History_Test.dll
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\obj\Debug\netcoreapp3.1\History_Test.pdb
+C:\Users\Admin\Desktop\Personal_Projects\History_Test\History_Test\obj\Debug\netcoreapp3.1\History_Test.genruntimeconfig.cache
