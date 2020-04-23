@@ -1,0 +1,62 @@
+﻿
+@model TaxForecast.Models.NewUserInput
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserInfo</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <div class="panel panel-success">
+        <div class="panel-heading text-center"><h4>Please Input Basic Information</h4></div>
+        <div class="panel-body">
+            <form class="p-a-1" asp-action="UserInfo" method="post">
+                <div asp-validation-summary="All"></div>
+                <div class="form-group">
+                    <label asp-for="Fname">Your First name:</label>
+                    <input class="form-control" asp-for="Fname" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Mname">Your Middle Name:</label>
+                    <input class="form-control" asp-for="Mname" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Lname">Your Last Name:</label>
+                    <input class="form-control" asp-for="Lname" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email">Your Email:</label>
+                    <input class="form-control" asp-for="Email" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Phone">Your phone number:</label>
+                    <input class="form-control" asp-for="Phone" />
+                </div>
+               
+                <div class="form-group">
+                    <label>Marriage Status</label>
+                    <select class="form-control" asp-for="MarriageStatus">
+                        <option value="">Choose an option</option>
+                        <option value="Marry">Married</option>
+                        <option value="Single">Single</option>
+                        <option value="Divorce">Divorse</option>
+                    </select>
+                </div>
+                <div class="text-center">
+                    <button class="btn btn-primary" type="submit">
+                        Register
+                    </button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</body>
+</html>
+

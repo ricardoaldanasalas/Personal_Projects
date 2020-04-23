@@ -1,0 +1,37 @@
+﻿@model IEnumerable<TaxForecast.Models.NewUserInput>
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+    <title>Responses</title>
+</head>
+<body>
+    <div class="panel-body">
+        <h2>Page where W2 form information will be inputed</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Fname</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (TaxForecast.Models.NewUserInput r in Model)
+                {
+                    <tr>
+                        <td>@r.Fname</td>
+                        <td>@r.Email</td>
+                        <td>@r.Phone</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
